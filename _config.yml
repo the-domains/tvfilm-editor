@@ -1,15 +1,15 @@
-layout_spectrum: 0.6686854588333517
-typography_spectrum: 0.2843855561222881
+layout_spectrum: 0.5482974518090487
+typography_spectrum: 0.9592177984304726
 color:
-  brandStrength: 0.520235053030774
-  lightness: 0.8820118813309819
-  saturation: 0.671353934565559
-  rhythmicContrast: 0.5198480938561261
+  brandStrength: 0.7658615433610976
+  lightness: 0.6093828429002315
+  saturation: 0.24194435006938875
+  rhythmicContrast: 0.406426158035174
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Christian Kinnard
 title: TV/Film Editor
