@@ -1,0 +1,14 @@
+layout_spectrum: 0.6686854588333517
+typography_spectrum: 0.2843855561222881
+color:
+  brandStrength: 0.520235053030774
+  lightness: 0.8820118813309819
+  saturation: 0.671353934565559
+  rhythmicContrast: 0.5198480938561261
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: TV/Film Editor
