@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TV/Film Editor]]></title>
+        <description><![CDATA[TV/Film Editor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Jun 2016 03:49:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Satisfaction (TV Series 2014-2015)]]></title>
+            <description><![CDATA[<article><h1>Satisfaction (TV Series 2014-2015)</h1><p>A provocative drama that explores modern marriage at its midpoint. Through the lens of one couple, Neil Truman, and his wife Grace, this series answers the question, "What do you do when having it all is not enough?" by delving into their shocking and unconventional choices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a9122f160b3b1bb6132511f745d3db2/noop.jpg?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMjM5OTUzNjk1Ml5BMl5BanBnXkFtZTgwMDEwMjUxMjE%40._V1_UY1200_CR90%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
+            <link>http://www.imdb.com/title/tt3205236/?ref_=nm_knf_i3</link>
+            <guid isPermaLink="false">7c12da96-376a-4ebb-a851-c8945f6834b3</guid>
+            <pubDate>Sun, 19 Jun 2016 03:48:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
