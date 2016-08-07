@@ -16,5 +16,8 @@ navigation:
   - name: Resume
     url: 'https://drive.google.com/open?id=0B6Dqe5RN6T-WSDlYUngxQjE2Slk'
     type: external
+  - name: Reel
+    url: 'https://vimeo.com/89206746'
+    type: external
 title: Christian Kinnard • Editor
 description: Local 700
