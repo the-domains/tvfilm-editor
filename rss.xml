@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Christian Kinnard • Editor]]></title>
         <description><![CDATA[Christian Kinnard • Editor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tvfilm-editor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 04:13:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Aug 2016 04:13:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tvfilm-editor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Community (TV Series 2009-2015)]]></title>
+            <description><![CDATA[<article><h1>Community (TV Series 2009-2015)</h1><p>Top Rated TV #168 | Won 1 Primetime Emmy. Another 16 wins & 65 nominations. See more awards " A former lawyer attends a community college when it is discovered he faked his bachelor degree. In an attempt to get with a student in his Spanish class he forms a Spanish study group.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b455de20ff202554918785b3f4ed3fa/noop.jpg?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMTQ2Njk2MzY2M15BMl5BanBnXkFtZTgwMDkxODg3MDE%40._V1_UY1200_CR136%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
+            <link>http://www.imdb.com/title/tt1439629/?ref_=nv_sr_1</link>
+            <guid isPermaLink="false">61f10176-3e94-4db3-bb99-4b471fdfb2de</guid>
+            <pubDate>Sun, 07 Aug 2016 04:13:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Religulous (2008)]]></title>
             <description><![CDATA[<article><h1>Religulous (2008)</h1><p>2 wins & 1 nomination. See more awards " Bill Maher interviews some of religion's oddest adherents. Muslims, Jews and Christians of many kinds pass before his jaundiced eye. Maher goes to a Creationist Museum in Kentucky, which shows that dinosaurs and people lived at the same time 5000 years ago.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e0872650fbd8279819e458025d14bac/noop.jpg?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMTIxMDcxMTA3M15BMl5BanBnXkFtZTcwNzk5NzU2MQ%40%40._V1_UY1200_CR90%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
