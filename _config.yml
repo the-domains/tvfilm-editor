@@ -1,9 +1,9 @@
-typography_spectrum: 0.2107572613749653
+typography_spectrum: 0.47221315070055425
 color:
-  brandStrength: 0.0408457291778177
-  lightness: 0.26831730268895626
-  saturation: 0.6503979032859206
-  rhythmicContrast: 0.6167767895385623
+  brandStrength: 0.8170301239006221
+  lightness: 0.9392313859425485
+  saturation: 0.43786661326885223
+  rhythmicContrast: 0.9861760349012911
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
