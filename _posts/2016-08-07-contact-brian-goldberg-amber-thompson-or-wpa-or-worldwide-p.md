@@ -1,21 +1,22 @@
 ---
-description: 'Contact: Brian Goldberg / Amber Thompson | WPA | Worldwide Production Agency'
-dateModified: '2016-08-07T20:07:43.006Z'
-datePublished: '2016-08-07T20:07:53.582Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-07T20:32:43.065Z'
 sourcePath: >-
   _posts/2016-08-07-contact-brian-goldberg-amber-thompson-or-wpa-or-worldwide-p.md
+author: []
+via: {}
+dateModified: '2016-08-07T20:27:49.658Z'
+title: ''
+publisher: {}
+description: 'Contact: Brian Goldberg / Amber Thompson | WPA | Worldwide Production Agency'
+isBasedOnUrl: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b3c61fb-457c-472b-8f11-6f3863001838.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/097d948c40cf838a6e38821a545fd526/croprotate.jpg?cropheight=802&cropwidth=820&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2b3c61fb-457c-472b-8f11-6f3863001838.jpg&x=0&y=8)
 
 Contact: Brian Goldberg / Amber Thompson | [WPA][0] | [Worldwide Production Agency][0]
 
