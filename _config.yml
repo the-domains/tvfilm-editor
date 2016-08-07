@@ -1,16 +1,20 @@
-typography_spectrum: 0.315820419928059
+typography_spectrum: 0.9592177984304726
 color:
-  brandStrength: 0.14631470292806625
-  lightness: 0.8987851163838059
-  saturation: 0.9209229245316237
-  rhythmicContrast: 0.3212071289308369
+  brandStrength: 0.7658615433610976
+  lightness: 0.6093828429002315
+  saturation: 0.24194435006938875
+  rhythmicContrast: 0.406426158035174
   brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 layout_spectrum: 0.5482974518090487
 name: Christian Kinnard
+navigation:
+  - name: Resume
+    url: 'https://drive.google.com/open?id=0B6Dqe5RN6T-WSDlYUngxQjE2Slk'
+    type: external
 title: Christian Kinnard • Editor
 description: Local 700
