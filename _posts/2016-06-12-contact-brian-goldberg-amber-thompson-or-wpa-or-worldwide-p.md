@@ -1,14 +1,14 @@
 ---
-description: 'https://vimeo.com/89206746'
-dateModified: '2016-08-07T03:41:33.294Z'
-datePublished: '2016-08-07T03:42:31.089Z'
-title: christian kinnard • editor
-author: []
+datePublished: '2016-08-07T03:50:54.237Z'
 sourcePath: >-
   _posts/2016-06-12-contact-brian-goldberg-amber-thompson-or-wpa-or-worldwide-p.md
 isBasedOnUrl: ''
-publisher: {}
+author: []
 via: {}
+dateModified: '2016-08-07T03:50:16.799Z'
+title: christian kinnard • editor
+publisher: {}
+description: 'https://vimeo.com/89206746'
 starred: false
 inFeed: true
 hasPage: false
@@ -19,7 +19,7 @@ _type: MediaObject
 # christian kinnard • editor
 
 https://vimeo.com/89206746
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ada09a1-ac54-4184-acf1-e20c62dec206.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/453f9a5c-1dfc-4e95-859e-953dd5691cc0.jpg)
 
 Contact: Brian Goldberg / Amber Thompson | [WPA][0] | [Worldwide Production Agency][0]
 
