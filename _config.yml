@@ -1,15 +1,15 @@
-typography_spectrum: 0.9592177984304726
+typography_spectrum: 0.3383551111910492
 color:
-  brandStrength: 0.7658615433610976
-  lightness: 0.6093828429002315
-  saturation: 0.24194435006938875
-  rhythmicContrast: 0.406426158035174
+  brandStrength: 0.5975717746187001
+  lightness: 0.18457431439310312
+  saturation: 0.9671333280857652
+  rhythmicContrast: 0.4509859213139862
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 layout_spectrum: 0.5482974518090487
 name: Christian Kinnard
 title: Christian Kinnard • Editor
