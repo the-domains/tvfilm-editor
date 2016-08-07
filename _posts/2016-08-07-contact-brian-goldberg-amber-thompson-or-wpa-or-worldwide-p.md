@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-07T20:32:43.065Z'
+datePublished: '2016-08-07T20:32:49.362Z'
 sourcePath: >-
   _posts/2016-08-07-contact-brian-goldberg-amber-thompson-or-wpa-or-worldwide-p.md
+isBasedOnUrl: ''
 author: []
 via: {}
-dateModified: '2016-08-07T20:27:49.658Z'
+dateModified: '2016-08-07T20:32:48.855Z'
 title: ''
 publisher: {}
 description: 'Contact: Brian Goldberg / Amber Thompson | WPA | Worldwide Production Agency'
-isBasedOnUrl: ''
 starred: false
 inFeed: true
 hasPage: false
