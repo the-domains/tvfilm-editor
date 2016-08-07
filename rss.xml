@@ -4,8 +4,15 @@
         <description><![CDATA[Christian Kinnard • Editor]]></description>
         <link>https://thegrid.ai/tvfilm-editor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 04:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 04:59:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tvfilm-editor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[REEL ]]></title>
+            <description><![CDATA[<article><h1>REEL </h1><p>Contact: Brian Goldberg / Amber Thompson | WPA | Worldwide Production Agency</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cca29bfda87a1e387868531d8a9c3ab80011319b.jpg"></article>]]></description>
+            <link>http://www.imdb.com/name/nm2122419/?ref_=fn_al_nm_1</link>
+            <guid isPermaLink="false">55f39c4f-a7ea-4b3f-aa8d-31e66f123bbf</guid>
+            <pubDate>Sun, 07 Aug 2016 04:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KINNARD-Christian.pdf]]></title>
             <description><![CDATA[<article><h1>KINNARD-Christian.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/794d51882ed48f433ab231d15897c642/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FRVAKRICeseuEE47yystYj9jk0gh5SjRlGnLQoKzZeroPYzb0_STT4g%3Dw1200-h630-p"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.imdb.com/title/tt2211129/?ref_=nv_sr_1</link>
             <guid isPermaLink="false">205550dd-c678-4ec3-a3d0-1fe674433ebd</guid>
             <pubDate>Sun, 07 Aug 2016 04:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Community (TV Series 2009-2015)]]></title>
-            <description><![CDATA[<article><h1>Community (TV Series 2009-2015)</h1><p>Top Rated TV #168 | Won 1 Primetime Emmy. Another 16 wins & 65 nominations. See more awards " A former lawyer attends a community college when it is discovered he faked his bachelor degree. In an attempt to get with a student in his Spanish class he forms a Spanish study group.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b455de20ff202554918785b3f4ed3fa/noop.jpg?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMTQ2Njk2MzY2M15BMl5BanBnXkFtZTgwMDkxODg3MDE%40._V1_UY1200_CR136%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
-            <link>http://www.imdb.com/title/tt1439629/?ref_=nv_sr_1</link>
-            <guid isPermaLink="false">61f10176-3e94-4db3-bb99-4b471fdfb2de</guid>
-            <pubDate>Sun, 07 Aug 2016 04:13:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
