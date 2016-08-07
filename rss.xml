@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Christian Kinnard]]></title>
-        <description><![CDATA[Christian Kinnard]]></description>
+        <title><![CDATA[Christian Kinnard • Editor]]></title>
+        <description><![CDATA[Christian Kinnard • Editor]]></description>
         <link>https://thegrid.ai/tvfilm-editor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 05:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 18:50:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tvfilm-editor/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Local 700]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cca29bfda87a1e387868531d8a9c3ab80011319b.jpg">]]></description>
-            <link>http://www.imdb.com/name/nm2122419/?ref_=fn_al_nm_1</link>
-            <guid isPermaLink="false">55f39c4f-a7ea-4b3f-aa8d-31e66f123bbf</guid>
-            <pubDate>Sun, 07 Aug 2016 05:28:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Superstore (TV Series 2015- )]]></title>
             <description><![CDATA[<article><h1>Superstore (TV Series 2015- )</h1><p>Created by Justin Spitzer. With America Ferrera, Ben Feldman, Lauren Ash, Colton Dunn. A look at the lives of employees at a big box store.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9df8449bd3f0217a0c21acadfa3e4066/noop.jpg?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BNzM3MTE5NzYyMV5BMl5BanBnXkFtZTgwMzQ4NDQ2OTE%40._V1_UY1200_CR135%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
