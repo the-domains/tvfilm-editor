@@ -1,15 +1,15 @@
-typography_spectrum: 0.9592177984304726
+typography_spectrum: 0.8915094381663948
 color:
-  brandStrength: 0.7658615433610976
-  lightness: 0.6093828429002315
-  saturation: 0.24194435006938875
-  rhythmicContrast: 0.406426158035174
+  brandStrength: 0.8799678909126669
+  lightness: 0.9079521766398102
+  saturation: 0.46746126282960176
+  rhythmicContrast: 0.42743531963787973
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
 layout_spectrum: 0.5482974518090487
 name: Christian Kinnard
 navigation:
@@ -19,5 +19,5 @@ navigation:
   - name: Reel
     url: 'https://vimeo.com/89206746'
     type: external
-title: Christian Kinnard
-description: TV/Film Editor
+title: Christian Kinnard • Editor
+description: Local 700
